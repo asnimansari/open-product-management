@@ -69,36 +69,36 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 ## What Is Product Management?
 - [x] [What is product management?](https://www.leaninberlin.de/2019/03/what-is-product-management.html) - Bogdan Sturza
 - [x] [A Product Manager’s Job](https://medium.com/@joshelman/a-product-managers-job-63c09a43d0ec) - Josh Elman
-- [ ] [Product Managers: Who are these ‘mini-CEOs’ and what do they do?](http://thenextweb.com/insider/2013/10/12/product-managers-mini-ceos/) - Ken Yeung
-- [ ] [What exactly is a Product Manager? ](http://www.mindtheproduct.com/2011/10/what-exactly-is-a-product-manager/) - Martin Eriksonn
-- [ ] [What is Product Management?](http://www.sachinrekhi.com/blog/2013/01/28/what-is-product-management) - Sachin Rekhi
-- [ ] [Product Manager You Are…](https://medium.com/@matbalez/product-manager-you-are-664d83ee702e) - Mat Balez
-- [ ] [What Product Management is Not](http://www.svpg.com/what-product-management-is-not/) - Marty Cagan
-- [ ] [Product Management vs. Product Marketing](http://www.svproduct.com/product-management-vs-product-marketing/) - Marty Cagan
-- [ ] [Evolution of the Product Manager](http://queue.acm.org/detail.cfm?id=2683579) - Ellen Chisa
-- [ ] [Use your Product Powers for Good](http://www.productpowers.com/blog/use-your-product-powers-for-good.html) - Bruce McCarthy
-- [ ] [Product Management: An introduction for undergraduates and graduates](https://product.careers/presentation/) - Thor Mitchell (Student presentation)
-- [ ] [What It Takes to Become a Great Product Manager](http://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager) - Julia Austin
-- [ ] [A Day in the Life of a Product Manager: Consumer and Enterprise](https://blog.tryexponent.com/day-in-life-pm/) - Kevin Wei
+- [x] [Product Managers: Who are these ‘mini-CEOs’ and what do they do?](http://thenextweb.com/insider/2013/10/12/product-managers-mini-ceos/) - Ken Yeung
+- [x] [What exactly is a Product Manager? ](http://www.mindtheproduct.com/2011/10/what-exactly-is-a-product-manager/) - Martin Eriksonn
+- [x] [What is Product Management?](http://www.sachinrekhi.com/blog/2013/01/28/what-is-product-management) - Sachin Rekhi
+- [x] [Product Manager You Are…](https://medium.com/@matbalez/product-manager-you-are-664d83ee702e) - Mat Balez
+- [x] [What Product Management is Not](http://www.svpg.com/what-product-management-is-not/) - Marty Cagan
+- [x] [Product Management vs. Product Marketing](http://www.svproduct.com/product-management-vs-product-marketing/) - Marty Cagan
+- [x] [Evolution of the Product Manager](http://queue.acm.org/detail.cfm?id=2683579) - Ellen Chisa
+- [x] [Use your Product Powers for Good](http://www.productpowers.com/blog/use-your-product-powers-for-good.html) - Bruce McCarthy
+- [x] [Product Management: An introduction for undergraduates and graduates](https://product.careers/presentation/) - Thor Mitchell (Student presentation)
+- [x] [What It Takes to Become a Great Product Manager](http://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager) - Julia Austin
+- [x] [A Day in the Life of a Product Manager: Consumer and Enterprise](https://blog.tryexponent.com/day-in-life-pm/) - Kevin Wei
 
 ## Is It Really For You?
-- [ ] [How to hire a Product Manager?](https://www.kennethnorton.com/essays/productmanager.html) - Kenneth Norton
-- [ ] [The DNA of Product Management](https://www.linkedin.com/pulse/20121102003945-7298-the-dna-of-product-management/) - Hunter Walk
-- [ ] [The Dark Side of PM](http://blog.ellenchisa.com/2014/02/20/the-dark-side-of-pm/) - Ellen Chisa
-- [ ] [Do I need to be technical to be a PM](http://blog.ellenchisa.com/2014/10/04/need-technical-pm/) - Ellen Chisa
-- [ ] [Ode to a Non Technical Product Manager](https://medium.com/@hunterwalk/ode-to-a-non-technical-product-manager-7776efb98acd) - Hunter Walk
-- [ ] [3 Skillsets for PM Success](http://blog.kentonkivestu.com/3-skillsets-for-PM-success) - Kenton Kivetsu
+- [x] [How to hire a Product Manager?](https://www.kennethnorton.com/essays/productmanager.html) - Kenneth Norton
+- [x] [The DNA of Product Management](https://www.linkedin.com/pulse/20121102003945-7298-the-dna-of-product-management/) - Hunter Walk
+- [x] [The Dark Side of PM](http://blog.ellenchisa.com/2014/02/20/the-dark-side-of-pm/) - Ellen Chisa
+- [x] [Do I need to be technical to be a PM](http://blog.ellenchisa.com/2014/10/04/need-technical-pm/) - Ellen Chisa
+- [x] [Ode to a Non Technical Product Manager](https://medium.com/@hunterwalk/ode-to-a-non-technical-product-manager-7776efb98acd) - Hunter Walk
+- [x] [3 Skillsets for PM Success](http://blog.kentonkivestu.com/3-skillsets-for-PM-success) - Kenton Kivetsu
 
 ## Becoming A Product Guru
-- [ ] [How do I become a Product Manager?](https://www.quora.com/How-do-I-become-a-product-manager-2) - Multiple authors
-- [ ] [How I became a PM](http://blog.ellenchisa.com/2014/01/10/how-i-became-a-pm/) - Ellen Chisa
-- [ ] [Do Product Managers really need a background in CS](https://pmblog.quora.com/Do-Product-Managers-really-need-a-background-in-CS) - Jackie Bavaro
-- [ ] [Want to be a PM? Do a Project](http://blog.ellenchisa.com/2014/01/28/want-to-be-a-pm-do-a-project/) - Ellen Chisa
-- [ ] [So You Want to Manage a Product](https://medium.com/@rohinivibha/so-you-want-to-manage-a-product-c664ba7e5138) - Rohini Viba
-- [ ] [The 4 ways to break into Product Management](https://pmblog.quora.com/The-4-ways-to-Break-into-Product-Management) - Jackie Bavaro
-- [ ] [Evolution of the Product Manager](http://queue.acm.org/detail.cfm?id=2683579) - Ellen Chisa
-- [ ] [4 mistakes new Product Managers make](http://dev.hubspot.com/blog/4-mistakes-new-product-managers-make) - Matt Schnitt
-- [ ] [Product Manager Skills By Seniority Level — A Deep Breakdown](https://medium.com/pminsider/product-manager-skills-by-seniority-level-a-deep-breakdown-cd0690f76d10) - Brent Tworetzky
+- [x] [How do I become a Product Manager?](https://www.quora.com/How-do-I-become-a-product-manager-2) - Multiple authors
+- [x] [How I became a PM](http://blog.ellenchisa.com/2014/01/10/how-i-became-a-pm/) - Ellen Chisa
+- [x] [Do Product Managers really need a background in CS](https://pmblog.quora.com/Do-Product-Managers-really-need-a-background-in-CS) - Jackie Bavaro
+- [x] [Want to be a PM? Do a Project](http://blog.ellenchisa.com/2014/01/28/want-to-be-a-pm-do-a-project/) - Ellen Chisa
+- [x] [So You Want to Manage a Product](https://medium.com/@rohinivibha/so-you-want-to-manage-a-product-c664ba7e5138) - Rohini Viba
+- [x] [The 4 ways to break into Product Management](https://pmblog.quora.com/The-4-ways-to-Break-into-Product-Management) - Jackie Bavaro
+- [x] [Evolution of the Product Manager](http://queue.acm.org/detail.cfm?id=2683579) - Ellen Chisa
+- [x] [4 mistakes new Product Managers make](http://dev.hubspot.com/blog/4-mistakes-new-product-managers-make) - Matt Schnitt
+- [x] [Product Manager Skills By Seniority Level — A Deep Breakdown](https://medium.com/pminsider/product-manager-skills-by-seniority-level-a-deep-breakdown-cd0690f76d10) - Brent Tworetzky
 
 ## Building Great Products
 - [ ] [How to build great products](http://www.defmacro.org/2013/09/26/products.html) - Slava Akhmechet
